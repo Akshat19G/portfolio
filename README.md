@@ -198,6 +198,6 @@ Created with cutting-edge technologies:
 
 ---
 
-**Built with ❤️ using AI & Modern Web Technologies**
+
 
 For questions or collaboration: srivastavaakshat1909@gmail.com
