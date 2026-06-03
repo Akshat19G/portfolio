@@ -77,11 +77,11 @@ const projects: Project[] = [
     accentBg: 'rgba(251,146,60,0.08)',
   },
   {
-    title: 'AI Code Assistant',
+    title: 'Sahi Code',
     description: 'Full-stack AI tool to generate code, explain code logic, and debug snippets using LLM APIs.',
     longDescription: 'A developer productivity tool powered by large language models that generates, explains, and debugs code across multiple programming languages with an intuitive React frontend and fast FastAPI backend.',
     icon: Code2,
-    github: 'https://github.com/Akshat19G/Ai-code-Assistant/tree/main',
+    github: 'https://github.com/Akshat19G/sahicode',
     demo: '#',
     tags: ['LLM APIs', 'React', 'FastAPI', 'AI Engineering'],
     features: ['Code generation', 'Logic explanation', 'Bug detection', 'Multi-language support'],
