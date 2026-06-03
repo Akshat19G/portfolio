@@ -33,10 +33,10 @@ export default function Projects() {
       tags: ['Collaborative Filtering', 'Embeddings', 'Python', 'ML'],
     },
     {
-      title: 'AI Code Assistant',
+      title: 'Sahi Code',
       description: 'Full-stack AI tool to generate code, explain code logic, and debug snippets using LLM APIs.',
       icon: Code2,
-      github: 'https://github.com/Akshat19G/Ai-code-Assistant/tree/main',
+      github: 'https://github.com/Akshat19G/sahicode',
       demo: '#',
       tags: ['LLM APIs', 'React', 'FastAPI', 'AI Engineering'],
     },
