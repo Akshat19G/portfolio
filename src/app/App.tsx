@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react';
 import { AnimatePresence, motion } from 'motion/react';
 import Lenis from 'lenis';
 import { Toaster } from 'sonner';
-
 import LoadingScreen from './components/LoadingScreen';
 import CustomCursor from './components/CustomCursor';
 import BackgroundEffects from './components/BackgroundEffects';
@@ -99,7 +98,6 @@ export default function App() {
                 },
               }}
             />
-
           </motion.div>
         )}
       </AnimatePresence>
