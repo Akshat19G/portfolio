@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { AnimatePresence, motion } from 'motion/react';
 import Lenis from 'lenis';
 import { Toaster } from 'sonner';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import LoadingScreen from './components/LoadingScreen';
 import CustomCursor from './components/CustomCursor';
 import BackgroundEffects from './components/BackgroundEffects';
@@ -98,6 +99,9 @@ export default function App() {
                 },
               }}
             />
+
+            {/* Vercel Speed Insights */}
+            <SpeedInsights />
           </motion.div>
         )}
       </AnimatePresence>
